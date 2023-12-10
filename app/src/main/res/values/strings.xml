@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timewaster</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="win_1_000_000">Win (1,000,000)</string>
+    <string name="clicker_text">A clicker will automatically press the button for you at a rate of once per second. Pretty handy!</string>
+    <string name="superclicker_text">The superclicker is like the clicker, but ten times faster!</string>
+    <string name="win_text">Win the game.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Timewaster.Divider" parent="@style/Theme.Timewaster">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?attr/dividerHorizontal</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginHorizontal">32dp</item>
+
+    </style>
+
+
+
+
+</resources>
