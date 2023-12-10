@@ -128,6 +128,7 @@ class TWViewModel(private val DBDao: DBDao) : ViewModel() {
     }
 
     fun win(DB: DB) {
+        currentht.quit()
         if (DB.points >= 1000000) {
             val newDB = getUpdatedItemEntry(DB.id, 0.toString(), 0.toString(), 0.toString())
             viewModelScope.launch {
